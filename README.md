@@ -23,4 +23,4 @@
 ## Автор
 
 - [Серёжа Серч / s3r4.tv / PlayWithSERCH / Fenix Carter](https://s3r4.tv/x)
-- [Сказать спасибо](https://dalink.to/playwithserch) за эту нобелевскую разработку
+- [Сказать спасибо](https://dalink.to/playwithserch) за эту Нобелевскую разработку
