@@ -2,7 +2,7 @@
 
 **GTA5RP Cargo Stats** — это приложение для стримеров и игроков GTA5 RP, которое позволяет в реальном времени отслеживать статистику доставок грузов и отображать её в OBS через настраиваемый HTML-виджет.
 
-# [⚡️ Загрузить для Windows](https://github.com/s3r4tv/cargo_stats/releases/latest)
+# [⚡️ Загрузить для Windows](https://github.com/s3r4tv/cargo_stats/releases/latest) [📺 Стримеры с трекером](https://s3r4.tv/cargo-live)
 
 ![Скриншот](https://i.imgur.com/ocTjbzL.png)
 
